@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "id": "openclaw-ai",
+      "title": "OpenClaw AI Integration",
+      "description": "Asistente personal integrado con Amazon Bedrock, automatización de tareas y gestión de memoria persistente",
+      "technologies": ["OpenClaw", "Amazon Bedrock", "Node.js", "Telegram API"],
+      "status": "active",
+      "icon": "fa-robot",
+      "color": "cyan"
+    },
+    {
+      "id": "aws-data-lake",
+      "title": "Data Lake Enterprise",
+      "description": "Arquitectura serverless para procesar 20M+ registros desde PostgreSQL usando AWS Glue, S3 y Athena",
+      "technologies": ["AWS Glue", "S3", "Athena", "Apache Iceberg", "Python"],
+      "status": "active",
+      "icon": "fa-database",
+      "color": "orange"
+    },
+    {
+      "id": "genai-workshops",
+      "title": "Workshops de GenAI",
+      "description": "Diseño y facilitación de workshops sobre IA Generativa para equipos enterprise",
+      "technologies": ["Amazon Bedrock", "Claude 3", "Prompt Engineering"],
+      "status": "active",
+      "icon": "fa-graduation-cap",
+      "color": "purple"
+    },
+    {
+      "id": "smart-home",
+      "title": "Smart Home Automation",
+      "description": "Sistema de automatización hogareña con Home Assistant, sensores IoT y control por voz",
+      "technologies": ["Home Assistant", "Raspberry Pi", "MQTT", "Node-RED"],
+      "status": "active",
+      "icon": "fa-home",
+      "color": "green"
+    },
+    {
+      "id": "moltbook-agent",
+      "title": "Agente Social Moltbook",
+      "description": "Bot social inteligente que interactúa en la red de agentes AI, con protocolos de seguridad avanzados",
+      "technologies": ["Moltbook API", "Python", "Cron Jobs", "JSON"],
+      "status": "active",
+      "icon": "fa-comments",
+      "color": "pink"
+    },
+    {
+      "id": "radio-digital",
+      "title": "Radioafición Digital",
+      "description": "Proyectos de radio digital DMR, FT8, SOTA/POTA y construcción de antenas",
+      "technologies": ["DMR", "FT8", "MMDVM", "Raspberry Pi", "XIEGU X6200"],
+      "status": "active",
+      "icon": "fa-broadcast-tower",
+      "color": "red"
+    }
+  ]
+}
